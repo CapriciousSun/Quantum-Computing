@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "f09803147f443dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aaf70f6aa9e6b99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3b29887f3e45e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/Deutsch-Jozsa Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch-Jozsa Algorithm"
+            }
+          },
+          {
+            "id": "29e0c9dd1f5938ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference/Quantum Simulation of Physical Systems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Quantum Simulation of Physical Systems"
+            }
+          },
+          {
+            "id": "43bae9f444eb68a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650b31b36bb39c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "81fe8e355e16cdc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd3e257f2005a9dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26e991c4a4622daf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95f10e1d1cfc507f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "102ab44bd8987f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b742536f1ff867b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee5604bb98a92cc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting/Grover's Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Grover's Algorithm"
+            }
+          },
+          {
+            "id": "0bf7c677e7f5ad17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fleeting/Grover's Algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Grover's Algorithm"
+            }
+          },
+          {
+            "id": "acfba7b197f276b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28e1314acb44be0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fleeting/Grover's Algorithm.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Grover's Algorithm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0e3b29887f3e45e8",
+  "lastOpenFiles": [
+    "Code/MANE-4960/HW4.pdf",
+    "Code/MANE-4960/HW4.html",
+    "Code/IBM.py",
+    "Code/MANE-4960/HW4_part1.ipynb",
+    "Code/MANE-4960/Project1-Sample.ipynb",
+    "Code/MANE-4960/HW4.ipynb",
+    "Code/deutsch-jozsa.ipynb",
+    "Fleeting/Physical Simulation.md",
+    "Fleeting/Deutsch-Jozsa Algorithm.md",
+    "Reference/Quantum Simulation of Physical Systems.pdf",
+    "Reference/Quantum Simulation of Physical Systems.md",
+    "Reference/F24_0x06 Quantum Sensing.pdf",
+    "Fleeting/Hilbert Space.md",
+    "Code/physical_simulation.ipynb",
+    "Fleeting/Combinatorial Optimization.md",
+    "Reference/Understanding Quantum Information and Computation - Lesson 1 - Single Systems.md",
+    "Fleeting/Quantum Networking.md",
+    "Code/quantum-approximate-optimization-algorithm.ipynb",
+    "Fleeting/Quantum Sensing.md",
+    "Reference/F24_0x06 Quantum Sensing.md",
+    "Fleeting/Grover's Algorithm.md",
+    "Fleeting/Quantum Fourier Transform.md",
+    "Fleeting/Cellular Automata.md",
+    "Fleeting/RSA Decryption.md",
+    "Tags/Quantum Algorithm.md",
+    "Fleeting/Machine Learning.md",
+    "Fleeting/Multi-Qubit Systems.md",
+    "Energy Level Valley Illustration.png",
+    "OptimizedQFTOutput.png",
+    "Pasted image 20240917162154.png",
+    "Fleeting/Measurement.md",
+    "2024-10-15.md",
+    "Fleeting/Quantum Gates.md",
+    "Untitled.md",
+    "Tags/Qiskit.md",
+    "Fleeting/Quantum Optimization.md",
+    "Fleeting/Logical Qubits.md",
+    "Fleeting/Error Models.md",
+    "Fleeting/Errors & Decoherence.md"
+  ]
+}

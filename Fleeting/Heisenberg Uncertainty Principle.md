@@ -7,3 +7,4 @@ where λ is the wavelength of the photon and a is the width of the slit. Also, $
 $$λp = λ\frac{h}{λ}=h$$
 Since a is the slit width, it also represents the range of positional values that the photons could occupy, so the whole equation can be rewritten as $$ΔpΔx = h$$
 or when the intensity pattern is taken into account for, $$ΔpΔx \geqslant \frac{h}{2}$$
+___
