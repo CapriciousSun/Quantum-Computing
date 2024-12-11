@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Deutsch-Jozsa Algorithm.md",
+                "file": "Fleeting/Dirac Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deutsch-Jozsa Algorithm"
+              "title": "Dirac Notation"
             }
           },
           {
@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Reference/Quantum Simulation of Physical Systems.pdf"
+                "file": "Reference/F24_0x02 Measurements, Estimators, and Circuits.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Quantum Simulation of Physical Systems"
+              "title": "F24_0x02 Measurements, Estimators, and Circuits"
             }
           },
           {
@@ -186,24 +186,30 @@
   },
   "active": "0e3b29887f3e45e8",
   "lastOpenFiles": [
+    "Fleeting/Dirac Notation Part 3.md",
+    "Fleeting/Dirac Notation.md",
+    "Fleeting/Dirac Notation Part 2.md",
+    "Fleeting/Qubit States.md",
+    "Reference/F24_0x02 Measurements, Estimators, and Circuits.pdf",
+    "Reference/F24_0x01 Qubits.pdf",
+    "Reference/Quantum Simulation of Physical Systems.pdf",
+    "Fleeting/Quantum Information in a Single System.md",
+    "Fleeting/Quantum Optimization.md",
+    "Code/repeated_distillation.ipynb",
+    "Code/Local Distillation.ipynb",
+    "Fleeting/Quantum Machine Learning.md",
+    "Fleeting/Deutsch-Jozsa Algorithm.md",
     "Code/MANE-4960/HW4.pdf",
     "Code/MANE-4960/HW4.html",
     "Code/IBM.py",
     "Code/MANE-4960/HW4_part1.ipynb",
     "Code/MANE-4960/Project1-Sample.ipynb",
-    "Code/MANE-4960/HW4.ipynb",
-    "Code/deutsch-jozsa.ipynb",
     "Fleeting/Physical Simulation.md",
-    "Fleeting/Deutsch-Jozsa Algorithm.md",
-    "Reference/Quantum Simulation of Physical Systems.pdf",
     "Reference/Quantum Simulation of Physical Systems.md",
-    "Reference/F24_0x06 Quantum Sensing.pdf",
     "Fleeting/Hilbert Space.md",
-    "Code/physical_simulation.ipynb",
     "Fleeting/Combinatorial Optimization.md",
     "Reference/Understanding Quantum Information and Computation - Lesson 1 - Single Systems.md",
     "Fleeting/Quantum Networking.md",
-    "Code/quantum-approximate-optimization-algorithm.ipynb",
     "Fleeting/Quantum Sensing.md",
     "Reference/F24_0x06 Quantum Sensing.md",
     "Fleeting/Grover's Algorithm.md",
@@ -218,12 +224,6 @@
     "Pasted image 20240917162154.png",
     "Fleeting/Measurement.md",
     "2024-10-15.md",
-    "Fleeting/Quantum Gates.md",
-    "Untitled.md",
-    "Tags/Qiskit.md",
-    "Fleeting/Quantum Optimization.md",
-    "Fleeting/Logical Qubits.md",
-    "Fleeting/Error Models.md",
-    "Fleeting/Errors & Decoherence.md"
+    "Fleeting/Quantum Gates.md"
   ]
 }
