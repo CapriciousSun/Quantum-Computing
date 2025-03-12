@@ -1,5 +1,30 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "152, 90, 226",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Note",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "formula": {
+      "type": "formula",
+      "color": "155, 93, 231",
+      "icon": {
+        "name": "lucide-audio-waveform",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Formula",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.3.2",
@@ -19,6 +44,6 @@
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
-  "useSnippet": false,
+  "useSnippet": true,
   "snippetPath": "custom-admonitions.ee73cd"
 }

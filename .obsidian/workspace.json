@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6aaf70f6aa9e6b99",
+        "id": "ab0aa2d940ae88bc",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3b29887f3e45e8",
+            "id": "850588f0d434e2e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Dirac Notation.md",
+                "file": "Fleeting/Quantum Teleportation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dirac Notation"
+              "title": "Quantum Teleportation"
             }
           },
           {
-            "id": "29e0c9dd1f5938ad",
+            "id": "9bee6a119943653c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Reference/F24_0x02 Measurements, Estimators, and Circuits.pdf"
+                "file": "Reference/Quantum Networks Enhanced by Distributed Quantum Memories.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "F24_0x02 Measurements, Estimators, and Circuits"
+              "title": "Quantum Networks Enhanced by Distributed Quantum Memories"
             }
           },
           {
-            "id": "43bae9f444eb68a5",
+            "id": "67a2d1c64ce41f11",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -43,7 +43,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,46 +185,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3b29887f3e45e8",
+  "active": "9bee6a119943653c",
   "lastOpenFiles": [
-    "Fleeting/Dirac Notation Part 3.md",
+    "Fleeting/Quantum Teleportation.md",
+    "Reference/Quantum Networks Enhanced by Distributed Quantum Memories.pdf",
+    "Reference/Quantum Computing for the Quantum Curious.pdf",
+    "Fleeting/Quantum Entanglement.md",
+    "Fleeting/Quantum States.md",
+    "Fleeting/No Cloning Theorem.md",
+    "Reference/Understanding Quantum Technologies 6th Edition.pdf",
+    "Reference/Teleporting an Unknown Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels.pdf",
+    "Fleeting/Quantum Numbers.md",
+    "Reference/Quantum Networks Enhanced by Distributed Quantum Memories.md",
+    "Reference/Teleporting an Unknown Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels.md",
+    "Reference/Quantum Computing for the Quantum Curious.md",
+    "Reference/Quantum Simulation of Physical Systems.md",
+    "Reference/Quantum Simulation of Physical Systems.pdf",
+    "Fleeting/Quantization of Energy.md",
+    "Reference/The Theory of Quantum Information.pdf",
+    "Fleeting/Black Bodies.md",
+    "Fleeting/Measurement.md",
+    "Reference/Understanding Quantum Technologies 6th Edition.md",
+    "Fleeting/Hilbert Space.md",
+    "Fleeting/Quantum Register.md",
+    "Fleeting/Density Operators.md",
+    "Fleeting/Euclidean Norm.md",
+    "Fleeting/Qubit Unitary Operations.md",
+    "Fleeting/Quantum Information Representation.md",
+    "Fleeting/Quantum Information in a Single System.md",
+    "Fleeting/Combinatorial Optimization.md",
+    "Fleeting/Classical Information vs Quantum Information.md",
+    "Fleeting/Deutsch-Jozsa Algorithm.md",
     "Fleeting/Dirac Notation.md",
-    "Fleeting/Dirac Notation Part 2.md",
-    "Fleeting/Qubit States.md",
+    "Fleeting/Classical Information Representation.md",
     "Reference/F24_0x02 Measurements, Estimators, and Circuits.pdf",
     "Reference/F24_0x01 Qubits.pdf",
-    "Reference/Quantum Simulation of Physical Systems.pdf",
-    "Fleeting/Quantum Information in a Single System.md",
-    "Fleeting/Quantum Optimization.md",
     "Code/repeated_distillation.ipynb",
     "Code/Local Distillation.ipynb",
-    "Fleeting/Quantum Machine Learning.md",
-    "Fleeting/Deutsch-Jozsa Algorithm.md",
-    "Code/MANE-4960/HW4.pdf",
-    "Code/MANE-4960/HW4.html",
-    "Code/IBM.py",
-    "Code/MANE-4960/HW4_part1.ipynb",
-    "Code/MANE-4960/Project1-Sample.ipynb",
-    "Fleeting/Physical Simulation.md",
-    "Reference/Quantum Simulation of Physical Systems.md",
-    "Fleeting/Hilbert Space.md",
-    "Fleeting/Combinatorial Optimization.md",
-    "Reference/Understanding Quantum Information and Computation - Lesson 1 - Single Systems.md",
-    "Fleeting/Quantum Networking.md",
-    "Fleeting/Quantum Sensing.md",
-    "Reference/F24_0x06 Quantum Sensing.md",
-    "Fleeting/Grover's Algorithm.md",
-    "Fleeting/Quantum Fourier Transform.md",
-    "Fleeting/Cellular Automata.md",
-    "Fleeting/RSA Decryption.md",
-    "Tags/Quantum Algorithm.md",
-    "Fleeting/Machine Learning.md",
-    "Fleeting/Multi-Qubit Systems.md",
     "Energy Level Valley Illustration.png",
     "OptimizedQFTOutput.png",
-    "Pasted image 20240917162154.png",
-    "Fleeting/Measurement.md",
-    "2024-10-15.md",
-    "Fleeting/Quantum Gates.md"
+    "Pasted image 20240917162154.png"
   ]
 }
