@@ -1,6 +1,6 @@
 20241030171420
 
-Tags: [[Quantum Information]]
+Tags: [[Quantum Information]], [[Quantum Computing]]
 
 For a system f(x) $$f(x), x \in \{0, 1\}$$
 $$f(0) \rightarrow 0\text{ or }1$$

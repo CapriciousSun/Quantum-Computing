@@ -9,7 +9,7 @@ For a quantum register X, the state is some $ρ \in \text{D}(\mathcal{X})$ for s
 From the complex Euclidean space proofs that show a probability vector $ρ$ is a mixture of states, it can be reasoned that random selections of quantum states are represented by convex combinations of density operators. 
 ## Qubit States
 There are a few different types of qubit states, namely standard basis and plus/minus states
-```ad-note
+```ad-formula
 ### Standard Basis States
 $$|0\rangle = \begin{pmatrix}
 1 \\
@@ -20,14 +20,13 @@ $$|0\rangle = \begin{pmatrix}
 \end{pmatrix}$$
 ```
 
-```ad-note
+```ad-formula
 ### Plus/Minus States
 $$|+\rangle = \frac{1}{\sqrt{2}}|0\rangle + \frac{1}{\sqrt{2}}|1\rangle\text{     and   } |-\rangle = \frac{1}{\sqrt{2}}|0\rangle - \frac{1}{\sqrt{2}}|1\rangle$$
 ```
 
 The Bell state is developed by John S. Bell in 1964 and it demonstrates superposition and entanglement, whilst ruling out the hidden variable theory. This is the building block of quantum computing.
-![[Pasted image 20240917162154.png]]
-```ad-note
+```ad-formula
 ### The four Bell states
 $$|\Phi^+\rangle = \frac{1}{\sqrt{ 2 }}(|00\rangle + |11\rangle)$$
 $$|\Phi^-\rangle = \frac{1}{\sqrt{ 2 }}(|00\rangle - |11\rangle)$$
